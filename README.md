@@ -1,2 +1,0 @@
-# HackerRankJava
-Java practice programs

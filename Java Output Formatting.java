@@ -1,5 +1,5 @@
 /*
-Java's System.out to print is to test your understanding of formatting output using printf.
+Java's System.out to  your understanding of formatting output using printf.
 
 To get you started, a portion of the solution is provided for you in the editor; you must format and print the input to complete the solution.
 

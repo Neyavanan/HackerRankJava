@@ -1,5 +1,5 @@
 /*
-Java's 
+
 
 To get you started, a portion of the solution is provided for you in the editor; you must format and print the input to complete the solution.
 

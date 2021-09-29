@@ -1,5 +1,5 @@
 /*
- you in the editor; you must format and print the input to complete the solution.
+ you must format and print the input to complete the solution.
 
 Input Format
 

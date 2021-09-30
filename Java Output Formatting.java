@@ -1,5 +1,5 @@
 /*
- you must format and print the input to complete the solution.
+format and print the input to complete the solution.
 
 Input Format
 

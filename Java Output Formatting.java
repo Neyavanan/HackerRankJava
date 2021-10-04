@@ -1,5 +1,5 @@
 /*
-complete the solution.
+solution.
 
 Input Format
 

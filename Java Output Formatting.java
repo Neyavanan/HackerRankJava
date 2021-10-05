@@ -1,6 +1,4 @@
 /*
-solution.
-
 Input Format
 
 Every line of input will contain a String followed by an integer.

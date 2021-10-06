@@ -1,5 +1,4 @@
 /*
-Input Format
 
 Every line of input will contain a String followed by an integer.
 Each String will have a maximum of

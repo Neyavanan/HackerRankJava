@@ -1,5 +1,5 @@
 /*
-input will contain a String followed by an integer.
+contain a String followed by an integer.
 Each String will have a maximum of
 alphabetic characters, and each integer will be in the inclusive range from to
 

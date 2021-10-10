@@ -1,5 +1,5 @@
 /*
-contain a String followed by an integer.
+String followed by an integer.
 Each String will have a maximum of
 alphabetic characters, and each integer will be in the inclusive range from to
 

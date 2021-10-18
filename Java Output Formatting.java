@@ -1,5 +1,5 @@
 /*
-alphabetic characters, and each integer will be in the inclusive range from to
+characters, and each integer will be in the inclusive range from to
 
 .
 

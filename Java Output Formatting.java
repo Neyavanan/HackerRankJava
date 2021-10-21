@@ -1,5 +1,5 @@
 /*
-nd each integer will be in the inclusive range from to
+integer will be in the inclusive range from to
 
 .
 

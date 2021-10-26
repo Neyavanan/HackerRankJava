@@ -1,5 +1,5 @@
 /*
-inclusive range from to
+range from to
 
 .
 

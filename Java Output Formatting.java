@@ -3,7 +3,7 @@
 
 .
 
-Output Format
+
 
 In each line of output there should be two columns:
 The first column contains the String and is left justified using exactly
@@ -30,7 +30,7 @@ Explanation
 
 Each String is left-justified with trailing whitespace through the first
 characters. The leading digit of the integer is the character, and each integer that was less than digits now has leading zeroes.
-*/
+
 import java.util.Scanner;
 
 public class Solution {
@@ -46,9 +46,9 @@ public class Solution {
                 
             }
             System.out.println("================================");
-//Hii
+
     }
 }
-
+Hiii
 
 

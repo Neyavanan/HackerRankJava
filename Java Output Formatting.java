@@ -1,11 +1,5 @@
 /*
-
-
-.
-
-
-
-In each line of output there should be two columns:
+h line of output there should be two columns:
 The first column contains the String and is left justified using exactly
 characters.
 The second column contains the integer, expressed in exactly

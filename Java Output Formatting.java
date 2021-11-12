@@ -1,5 +1,5 @@
 /*
-contains characters.
+characters.
 The second column contains the integer, expressed in exactly
 
 digits; if the original input has less than three digits, you must pad your output's leading digits with zeroes.

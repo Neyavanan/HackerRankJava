@@ -1,5 +1,5 @@
 /*
-if the original input has less than three digits, you must pad your output's leading digits with zeroes.
+original input has less than three digits, you must pad your output's leading digits with zeroes.
 java 100
 cpp 65
 python 50

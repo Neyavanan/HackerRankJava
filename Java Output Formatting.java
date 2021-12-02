@@ -1,5 +1,5 @@
 /*
-output's leading digits with zeroes.
+leading digits with zeroes.
 java 100
 cpp 65
 python 50

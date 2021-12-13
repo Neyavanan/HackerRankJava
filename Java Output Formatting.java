@@ -1,6 +1,5 @@
 /*
 
-cpp 65
 python 50
 
 Sample Output

@@ -1,6 +1,5 @@
 /*
 
-python 50
 
 Sample Output
 

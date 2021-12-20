@@ -1,5 +1,4 @@
 /*
-====
 java           100 
 cpp            065 
 python         050 

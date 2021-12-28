@@ -1,5 +1,5 @@
 /*
-python         050 
+
 ================================ation
 
 Each String is left-justified with trailing whitespace through the first

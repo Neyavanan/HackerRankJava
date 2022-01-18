@@ -1,5 +1,5 @@
 /*
-the character, and each integer that was less than digits now has leading zeroes.
+character, and each integer that was less than digits now has leading zeroes.
 
 */
 

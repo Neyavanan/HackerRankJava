@@ -1,5 +1,5 @@
 /*
-less than digits now has leading zeroes.
+than digits now has leading zeroes.
 
 */
 

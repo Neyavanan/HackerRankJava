@@ -1,4 +1,4 @@
-/* has leading zeroes.
+/* leading zeroes.
 
 */
 

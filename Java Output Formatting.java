@@ -1,4 +1,4 @@
-/* leading zeroes.
+/* zeroes.
 
 */
 

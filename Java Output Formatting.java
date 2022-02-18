@@ -1,6 +1,5 @@
 /* zeroes.
 
-*/
 
 import java.util.Scanner;
 

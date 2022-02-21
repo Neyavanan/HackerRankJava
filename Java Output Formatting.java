@@ -1,4 +1,4 @@
-/* zeroes
+/* eroes
 */
 
 import java.util.Scanner;

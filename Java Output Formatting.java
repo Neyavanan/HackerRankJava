@@ -1,5 +1,4 @@
-
-import java.util.Scanner;
+ java.util.Scanner;
 
 public class Solution {
 

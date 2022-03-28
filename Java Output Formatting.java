@@ -1,4 +1,4 @@
- java.util.Scanner;
+anner;
 
 public class Solution {
 
